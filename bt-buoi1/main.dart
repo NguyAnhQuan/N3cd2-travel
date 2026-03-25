@@ -25,7 +25,7 @@ class StudentData extends ChangeNotifier {
       : _students = <Student>[
           Student(
             imageUrl:
-                'https://www.gstatic.com/flutter-onestack-prototype/genui/example_1.jpg?id=1',
+                'https://avatars.githubusercontent.com/u/93334249?s=400&u=bea708807dd548070c27ec3edeaf5f8c02e6f55d&v=4',
             name: 'Nguyễn Anh Quân',
             studentId: '20220844',
             position: 'Trưởng nhóm',
