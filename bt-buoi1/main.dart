@@ -39,7 +39,7 @@ class StudentData extends ChangeNotifier {
           ),
           Student(
             imageUrl:
-                'https://www.gstatic.com/flutter-onestack-prototype/genui/example_1.jpg?id=3',
+                'https://avatars.githubusercontent.com/u/271129951?s=400&u=bb9cc235d3296b5a073a401948abf3d2bb695da8&v=4',
             name: 'Nguyễn Thị An Bình',
             studentId: '20220997',
             position: 'Thành viên',
